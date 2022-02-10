@@ -1,12 +1,11 @@
 Charset,UTF-8
 __system_settings_version__,2
-Char1.balloon.isleft,1
-balloon0.offset,147.-224
-Char0.centery,870
-balloon1.offset,98.10
-Char0.balloon.isleft,0
 Char.VirtualDesktop,fb5fc3e7-af47-41d4-8091-fa0c3a5e2d25
 Char0.center,87
-Char1.centery,871
+shell,shell\master\
+FirstBoot,booted
 Char1.center,1258
+shell.ischanged.2,0
+update.lastexec,697844358
+DeveloperPalette.visible,1
 __system_written_flag_do_not_remove__,written

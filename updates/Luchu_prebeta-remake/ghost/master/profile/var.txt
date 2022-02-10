@@ -1,0 +1,9 @@
+Charset,UTF-8
+install,697844332
+homeurl_found,1
+surfacecount,25
+homeurl,https://raw.githubusercontent.com/LuchuIsASquirrel/Ukagaka-Luchu-Eliver/master/updates/Luchu_prebeta-remake/
+update_result,OK(0)
+firstboot,697844332
+commitmemorysize,452005
+lastboot,697845070
